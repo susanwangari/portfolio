@@ -28,7 +28,7 @@ body{
 }
 
 nav{
-    background: #41dcd9;
+    background: #3fdad8 ;
     font-weight: 300;
     line-height: 3em;
     word-spacing: 7px;
@@ -46,9 +46,6 @@ header {
 }
 header img{
     float: right;
-    width: 50vw;
-    box-shadow:  0 0 20px rgba(0, 0, 0, 0.5);
-    opacity: 0px;
 }
 a{
     text-decoration: none;

@@ -13,7 +13,7 @@ body{
     background: linear-gradient(45deg,
     #878787 ,
     #ff9a00 ,
-    #d0de21 
+    
    );
     line-height: 3rem;
     display: flex;
@@ -56,7 +56,7 @@ main{
     justify-content: space-between;
     align-items: ;
     background: linear-gradient(45deg,
-    #d0de21 ,
+   
 #4fdc4f ,
 #3fdad8 );
 
@@ -86,7 +86,7 @@ footer ul
     text-decoration: none;
 }
 footer a {
-    color:rgb(69, 10, 10);
+    color:blue;
     justify-content: center;
     align-items: center;
     word-spacing: ;

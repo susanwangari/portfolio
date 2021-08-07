@@ -10,8 +10,7 @@ body{
     height: 100vh;
 }
 .navbar {
-    background: linear-gradient(45deg,
-    #878787 ,
+      background-color: #5f15f2 ;
     
     
    );
@@ -42,7 +41,7 @@ nav a:hover{
     
 }
 header {
-    background: #c4b403;
+     background-color:#ba0cf8 ;
 }
 header img{
     float: right;
@@ -55,10 +54,7 @@ main{
     flex-grow: 1;
     justify-content: space-between;
     align-items: ;
-    background: linear-gradient(45deg,
-   
-#4fdc4f 
- );
+       background-color: #fb07d9  ;
 
 } 
 main .featured-projects{
@@ -74,9 +70,7 @@ main .featured-projects img{
 }
 
 footer{
-    background: linear-gradient(45deg,
-    #3fdad8 ,
-    );
+ background-color:#85838a  ;
 }
 footer ul
 {
